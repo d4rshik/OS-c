@@ -1,10 +1,3 @@
-// DEADLOCK DETECTION USING BANKERS ALGORITH
-// DARSHIK A S - 16220
-// BHARAT ASHOK - 16217
-// ANANDAKRISHNAN - 16208
-// ARJUN SURESH - 16212
-// GAUTHAM JAYDEEP - 16224
-
 #include <stdio.h>
 #include <sys/sem.h>
 #include <sys/ipc.h>
